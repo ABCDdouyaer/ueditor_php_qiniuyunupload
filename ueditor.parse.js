@@ -1,8 +1,4 @@
-/*!
- * UEditor
- * version: 1.3.6
- * build: Wed Dec 25 2013 12:38:33 GMT+0800 (中国标准时间)
- */
+﻿
 
 (function(){
 
